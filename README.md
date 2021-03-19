@@ -3,4 +3,4 @@ Pytorch is used to train the data in order to generalize the machine learning mo
 
 The architecture of the machine learning model
 ![CNN Architecture](CNN.png)
-Format: ![Alt Text](url)
+
