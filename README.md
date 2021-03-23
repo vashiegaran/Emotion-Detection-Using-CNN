@@ -8,7 +8,7 @@ Training Dataset
 In order to download the dataset, visit [link to Dataset!](https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset)
 
 The architecture of the machine learning model
-![CNN Architecture](CNN.png)
+![CNN Architecture](RNN.png)
 
 
 Result:
